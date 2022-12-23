@@ -27,7 +27,6 @@ int main(){
 	int N,i = 0;
 	cout << "Enter the number of students: ";
 	cin >> N;
-	cin.ignore();
 	string name[N];
 	double score[N];	
 	
